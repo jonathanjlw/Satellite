@@ -1,0 +1,50 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="马来西亚" ,8TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+#EXTINF:0 group-title="马来西亚" ,8TV
+https://raw.githubusercontent.com/androidrepublica/playlist/master/8TV.m3u8
+#EXTINF:0 group-title="马来西亚" ,8TV
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+#EXTINF:-1 group-title="马来西亚" ,TV8
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:0 group-title="马来西亚" ,8TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:0 group-title="马来西亚" ,AEC
+http://go.layarku.tv/aec.m3u8
+#EXTINF:0 group-title="马来西亚" ,GO Shop
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+#EXTINF:0 group-title="马来西亚" ,GO Shop
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
+#EXTINF:0 group-title="马来西亚" ,GO Shop
+https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
+#EXTINF:0 group-title="马来西亚" ,GO Shop GAAYA
+https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+#EXTINF:0 group-title="马来西亚" ,RTM Parlimen (Dewan Negara)
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd
+#EXTINF:0 group-title="马来西亚" ,RTM Parlimen (Dewan Rakyat)
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
+#EXTINF:-1 group-title="马来西亚" ,Astro 愛奇藝
+http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+#EXTINF:-1 group-title="马来西亚" ,Astro 愛奇藝
+http://206.119.173.184/tv/js.php?id=169
+#EXTINF:-1 group-title="马来西亚" ,Astro 小太阳
+http://206.119.173.184/tv/js.php?id=168
+#EXTINF:-1 group-title="马来西亚" ,SP1
+http://206.119.173.184/tv/js.php?id=64
+#EXTINF:-1 group-title="马来西亚" ,SP2
+http://206.119.173.184/tv/js.php?id=65
+#EXTINF:-1 group-title="马来西亚" ,SP3
+http://206.119.173.184/tv/js.php?id=66
+
+#EXTINF:-1 group-title="马来西亚" ,SuperSport Premier League
+http://iptv.tvmalaysia.cc:80/529231/529231/6574
+#EXTINF:-1 group-title="马来西亚" ,Sky Sports News
+http://iptv.tvmalaysia.cc:80/529231/529231/6614
+#EXTINF:-1 group-title="马来西亚" ,Sky Sports Football
+http://iptv.tvmalaysia.cc:80/529231/529231/6620
+#EXTINF:-1 group-title="马来西亚" ,ASTRO Arena HD
+http://iptv.tvmalaysia.cc:80/529231/529231/6707
+#EXTINF:-1 group-title="马来西亚" ,ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/529231/529231/6714
+#EXTINF:-1 group-title="马来西亚" ,ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/529231/529231/6715

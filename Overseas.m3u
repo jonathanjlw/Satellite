@@ -1,0 +1,96 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="海外" ,TVN-亞洲
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 group-title="海外" ,娛樂
+http://125.210.152.21:9120/live/GQYL.m3u8
+#EXTINF:-1 group-title="海外" ,FOX-生活
+https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="海外" ,BBC Earth Lifestyle
+http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+#EXTINF:0 group-title="海外" ,国家地理
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1 group-title="海外" ,國家地理HD
+http://220.134.196.147:8619/http/116.50.42.18:8081/hls/61/803/ch01.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:0 group-title="海外" ,National Geographic
+http://alturl.com/zbw8j
+#EXTINF:-1 group-title="海外" ,DISCOVERY
+http://220.134.196.147:8620/http/116.50.42.18:8081/hls/71/813/ch44.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="海外" ,動物星球
+http://220.134.196.147:8622/http/116.50.42.18:8081/hls/70/812/ch37.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="海外" ,旅遊生活
+http://220.134.196.147:8621/http/116.50.42.18:8081/hls/70/812/ch38.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="海外" ,亞洲旅遊
+http://220.134.196.147:8623/http/116.50.42.18:8081/hls/76/818/ch61.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="海外" ,亞洲美食
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 group-title="海外" ,HBO
+http://220.134.196.147:8657/http/116.50.42.18:8081/hls/71/813/ch41.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="海外" ,HBO Family
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
+#EXTINF:-1 group-title="海外" ,HBO Hits
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
+#EXTINF:-1 group-title="海外" ,AXN
+http://220.134.196.147:8658/http/116.50.42.18:8081/hls/71/813/ch43.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="海外" ,CINEMAX HD
+http://220.134.196.147:8659/http/116.50.42.18:8081/hls/71/813/ch42.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="海外" ,STAR  MOVIES Gold
+http://220.134.196.147:8660/http/116.50.42.18:8081/hls/62/804/ch08.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="海外" ,STAR  World
+http://220.134.196.147:8661/http/59.120.8.187:8081/hls/61/803/ch02.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:0 group-title="海外" ,Discovery
+http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF:0 group-title="海外" ,动物星球
+http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:0 group-title="海外" ,动物星球(第2声道)
+http://iptv.tvfix.org/hls/animal2.m3u8
+#EXTINF:-1 group-title="海外" ,國家地理
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="海外" ,美亚电影台
+http://183.0.186.207:8088/hls/94/index.m3u8
+#EXTINF:-1 group-title="海外" ,Channel[V]
+http://live.hodtv.vip:25461/live/5633/123/3872.ts
+#EXTINF:-1 group-title="海外" ,TLC旅遊台
+p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
+#EXTINF:-1 group-title="海外" ,亞洲旅遊
+p5p://fccs.123178.top:9906/604405c80008412109a964c89ca82891.ts
+#EXTINF:-1 group-title="海外" ,afc亞洲美食 HD
+p5p://fccs.123178.top:9906/6044065f0003bace09abb177a024828d.ts
+#EXTINF:-1 group-title="海外" ,FOOD美食
+p5p://fccs.123178.top:9906/604407250006a38d09aeb7a6e70be747.ts
+#EXTINF:-1 group-title="海外" ,HBO FHD
+http://iptv.tvmalaysia.cc:80/529231/529231/7067
+#EXTINF:-1 group-title="海外" ,HBO Family FHD
+http://iptv.tvmalaysia.cc:80/529231/529231/7070
+#EXTINF:-1 group-title="海外" ,Red By HBO HD
+http://iptv.tvmalaysia.cc:80/529231/529231/7071
+#EXTINF:-1 group-title="海外" ,Warner TV HD
+http://iptv.tvmalaysia.cc:80/529231/529231/7072
+#EXTINF:-1 group-title="海外" ,National Geographic HD
+http://iptv.tvmalaysia.cc:80/529231/529231/7075
+#EXTINF:-1 group-title="海外" ,HGTV
+http://iptv.tvmalaysia.cc:80/529231/529231/7076
+#EXTINF:-1 group-title="海外" ,Animal Planet
+http://iptv.tvmalaysia.cc:80/529231/529231/7077
+#EXTINF:-1 group-title="海外" ,Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/529231/529231/7078
+#EXTINF:-1 group-title="海外" ,History FHD
+http://iptv.tvmalaysia.cc:80/529231/529231/7079
+
+#EXTINF:-1 group-title="海外" ,Cinema World
+http://iptv.tvmalaysia.cc:80/529231/529231/7219
+#EXTINF:-1 group-title="海外" ,Thrill
+http://iptv.tvmalaysia.cc:80/529231/529231/7220
+#EXTINF:-1 group-title="海外" ,Celestial Classic Movies.
+http://iptv.tvmalaysia.cc:80/529231/529231/7222
+#EXTINF:-1 group-title="海外" ,Fox Crime
+http://iptv.tvmalaysia.cc:80/529231/529231/7225
+#EXTINF:-1 group-title="海外" ,KiX
+http://iptv.tvmalaysia.cc:80/529231/529231/7229
+#EXTINF:-1 group-title="海外" ,Celestial Movies
+http://iptv.tvmalaysia.cc:80/529231/529231/7235
+#EXTINF:-1 group-title="海外" ,Galaxy Premium
+http://iptv.tvmalaysia.cc:80/529231/529231/8838
+#EXTINF:-1 group-title="海外" ,TSN 1
+http://iptv.tvmalaysia.cc:80/529231/529231/8923
+
+

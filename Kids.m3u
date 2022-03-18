@@ -1,0 +1,25 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="卡通台" ,ANIMAX
+http://220.134.196.147:8626/http/116.50.42.18:8081/hls/70/812/ch39.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="卡通台" ,東森幼幼HD
+http://220.134.196.147:8625/http/116.50.42.18:8081/hls/63/805/ch09.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="卡通台" ,Baby TV
+http://220.134.196.147:8624/http/116.50.42.18:8078/hls/35/80/babytv.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="卡通台" ,龍華卡通台
+http://220.134.196.147:8627/http/116.50.42.18:8066/hls/210/10013/cstv13.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="卡通台" tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" ,迪士尼
+http://59.125.101.187:8581/http/61.221.81.94:8088/hls/70/812/ch40.m3u8
+#EXTINF:-1 group-title="卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAXHD.png" ,Animax HD
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAXHD.png" ,AnimaxHD
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+#EXTINF:-1 group-title="卡通台" ,Dreamworks
+p5p://fccs.123178.top:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
+#EXTINF:-1 group-title="卡通台" ,Animax HD
+p5p://fccs.123178.top:9906/611a8d5a000710970c22409682924b74
+#EXTINF:-1 group-title="卡通台" ,CN卡通
+p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
+#EXTINF:-1 group-title="卡通台" ,東森幼幼
+p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts	
+#EXTINF:-1 group-title="卡通台" ,迪士尼卡通
+p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts

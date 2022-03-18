@@ -1,0 +1,179 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="台湾" tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" ,NHK
+http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="731" tvg-name="TV5Monde" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tv5monde.png" ,TV5monde
+http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" ,TVBS新闻台
+rtmp://59.124.75.157/sat/tv551
+#EXTINF:-1 group-title="台湾" tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" ,TVBS欢乐台
+rtmp://59.124.75.157/sat/tv421
+#EXTINF:-1 group-title="台湾" tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" ,东森新闻 HD
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" ,东森超视
+rtmp://59.124.75.157/sat/tv331
+#EXTINF:-1 group-title="台湾" ,中天新闻 HD
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" ,中视
+rtmp://59.124.75.157/sat/tv091
+#EXTINF:-1 group-title="台湾" tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" ,亚洲旅游台
+http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" ,华视
+rtmp://59.124.75.157/sat/tv111
+#EXTINF:-1 group-title="台湾" tvg-id="6180" tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" ,博斯运动
+rtmp://59.124.75.157/sat/md031
+#EXTINF:-1 group-title="台湾" tvg-id="6174" tvg-name="博斯运动二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" ,博斯运动2
+http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" ,台视
+rtmp://59.124.75.157/sat/tv071
+#EXTINF:-1 group-title="台湾" ,好消息
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 group-title="台湾" ,好消息
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" ,智林体育台
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" ,民视
+rtmp://59.124.75.157/sat/tv051
+#EXTINF:-1 group-title="台湾" ,民视影剧
+http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1 group-title="台湾" ,民视旅游
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1 group-title="台湾" tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" ,民视综艺
+http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTINF:-1 group-title="台湾" tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" ,爱尔达体育1
+rtmp://59.124.75.157/sat/md011
+#EXTINF:-1 group-title="台湾" tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" ,爱尔达体育2
+rtmp://59.124.75.157/sat/md041
+#EXTINF:-1 group-title="台湾" tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" ,纬来体育
+rtmp://59.124.75.157/sat/tv721
+#EXTINF:-1 group-title="台湾" tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" ,纬来日本
+rtmp://59.124.75.157/sat/tv771
+#EXTINF:-1 group-title="台湾" tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" ,纬来育乐
+rtmp://59.124.75.157/sat/tv701
+#EXTINF:-1 group-title="台湾" tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" ,TVBS新闻台
+rtmp://59.124.75.157/sat/tv551
+#EXTINF:-1 group-title="台湾" tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" ,TVBS欢乐台
+rtmp://59.124.75.157/sat/tv421
+#EXTINF:-1 group-title="台湾" tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" ,三立iNews
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="6048" tvg-name="三立都会台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" ,三立都会
+http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="6043" tvg-name="东森幼幼台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" ,东森幼幼
+http://59.125.101.187:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" ,东森新闻 HD
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" ,东森财经新闻
+rtmp://59.124.75.157/sat/tv571
+#EXTINF:-1 group-title="台湾" tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" ,东森财经新闻 HD
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" ,东森超视
+rtmp://59.124.75.157/sat/tv331
+#EXTINF:-1 group-title="台湾" tvg-id="6055" tvg-name="东风卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/东风卫视.png" ,东风卫视
+http://59.125.101.187:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" ,中视
+rtmp://59.124.75.157/sat/tv091
+#EXTINF:-1 group-title="台湾" tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" ,亚洲旅游台
+http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" ,华视
+rtmp://59.124.75.157/sat/tv111
+#EXTINF:-1 group-title="台湾" tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" ,台视
+rtmp://59.124.75.157/sat/tv071
+#EXTINF:-1 group-title="台湾" tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" ,民视
+rtmp://59.124.75.157/sat/tv051
+#EXTINF:-1 group-title="台湾" ,民视影剧
+http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1 group-title="台湾" ,民视旅游
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1 group-title="台湾" tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" ,民视综艺
+http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTINF:-1 group-title="台湾" tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" ,MoMo综合台
+http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台灣" ,TVBS
+http://huanqiuzhibo.cn/manifest/hqhktv.php?id=037&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="台灣" ,台視
+rtmp://59.124.75.157/sat/tv071
+#EXTINF:-1 group-title="台灣" ,台视
+http://huanqiuzhibo.cn/manifest/hqhktv.php?id=045&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="台灣" ,台視HD
+http://220.134.196.147:8611/http/116.50.42.18:8081/hls/72/814/ch46.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,中視
+rtmp://59.124.75.157/sat/tv091
+#EXTINF:-1 group-title="台灣" ,中视
+http://huanqiuzhibo.cn/manifest/hqhktv.php?id=047&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="台灣" ,中視HD
+http://220.134.196.147:8612/http/116.50.42.18:8081/hls/72/814/ch47.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,华视
+http://huanqiuzhibo.cn/manifest/hqhktv.php?id=046&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="台灣" ,華視
+rtmp://59.124.75.157/sat/tv111
+#EXTINF:-1 group-title="台灣" ,華視HD
+http://220.134.196.147:8613/http/116.50.42.18:8081/hls/72/814/ch48.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,民視HD
+http://220.134.196.147:8614/http/116.50.42.18:8081/hls/73/815/ch49.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,民視
+rtmp://59.124.75.138/sat/tv051
+#EXTINF:-1 group-title="台灣" ,民視
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 group-title="台灣" ,公视
+http://huanqiuzhibo.cn/manifest/hqhktv.php?id=043&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="台灣" ,公視
+http://220.134.196.147:8615/http/116.50.42.18:8081/hls/73/815/ch50.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,民视
+http://huanqiuzhibo.cn/manifest/hqhktv.php?id=044&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="台灣" ,人間衛視
+http://220.134.196.147:8616/http/116.50.42.18:8081/hls/69/811/ch36.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,大愛電視
+http://220.134.196.147:8617/http/116.50.42.18:8081/hls/73/815/ch52.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,好消息GOOD TV
+http://220.134.196.147:8618/http/116.50.42.18:8081/hls/74/816/ch53.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,緯來綜合HD
+http://220.134.196.147:8628/http/116.50.42.18:8081/hls/68/810/ch32.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,八大第一HD
+http://220.134.196.147:8629/http/116.50.42.18:8081/hls/66/808/ch22.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,八大綜合HD
+http://220.134.196.147:8630/http/116.50.42.18:8081/hls/66/808/ch21.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,三立台湾
+http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
+#EXTINF:-1 group-title="台灣" ,三立台灣HD
+http://220.134.196.147:8631/http/116.50.42.18:8081/hls/65/807/ch20.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,三立都會HD
+http://220.134.196.147:8632/http/116.50.42.18:8081/hls/65/807/ch19.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,衛視中文HD,
+http://220.134.196.147:8633/http/116.50.42.18:8081/hls/62/804/ch05.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,東森綜合HD
+http://220.134.196.147:8634/http/116.50.42.18:8081/hls/63/805/ch12.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,超視HD
+http://220.134.196.147:8635/http/116.50.42.18:8081/hls/64/806/ch14.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,中天綜合HD
+http://220.134.196.147:8636/http/116.50.42.18:8081/hls/67/809/ch25.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,中天娛樂HD
+http://220.134.196.147:8637/http/116.50.42.18:8081/hls/67/809/ch26.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,東風衛視
+http://220.134.196.147:8638/http/116.50.42.18:8081/hls/68/810/ch31.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,MUCH TV
+http://220.134.196.147:8639/http/116.50.42.18:8081/hls/72/814/ch45.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,東森戲劇HD,
+http://220.134.196.147:8640/http/116.50.42.18:8081/hls/64/806/ch13.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,八大戲劇HD
+http://220.134.196.147:8641/http/116.50.42.18:8081/hls/66/808/ch23.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,緯來戲劇
+http://220.134.196.147:8643/http/116.50.42.18:8081/hls/69/811/ch33.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,緯來日本HD
+http://220.134.196.147:8647/http/116.50.42.18:8081/hls/69/811/ch34.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,WAKUWAKU JAPAN
+http://220.134.196.147:8648/http/116.50.42.18:8081/hls/61/803/ch03.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,NHK世界HD
+http://220.134.196.147:8652/http/116.50.42.18:8081/hls/62/804/ch06.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,衛視電影HD
+http://220.134.196.147:8653/http/116.50.42.18:8081/hls/62/804/ch07.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,好萊塢電影HD
+http://220.134.196.147:8654/http/116.50.42.18:8081/hls/74/816/ch55.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,緯來電影HD
+http://220.134.196.147:8655/http/116.50.42.18:8081/hls/69/811/ch35.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" ,龍華電影台
+http://220.134.196.147:8656/http/116.50.42.18:8066/hls/210/10014/cstv14.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" tvg-logo="https://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" ,MoMo綜合台
+http://220.134.196.147:8665/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="台灣" tvg-logo="https://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" ,MoMo綜合台
+rtmp://59.124.75.138/sat/tv761
+#EXTINF:-1 group-title="台灣" tvg-logo="https://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" ,MoMo綜合台
+rtmp://59.124.75.138:1935/sat/tv761

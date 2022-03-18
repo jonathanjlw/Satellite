@@ -1,0 +1,47 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="新闻" ,CNBC
+http://220.134.196.147:8650/http/116.50.42.18:8078/hls/24/80/cnbc90.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="新闻" ,Bloomberg News
+http://220.134.196.147:8651/http/116.50.42.18:8078/hls/43/80/bloomber.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="新闻" ,TVBS新闻
+http://huanqiuzhibo.cn/manifest/hqhktv.php?id=038&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="新闻" ,民视新闻
+http://huanqiuzhibo.cn/manifest/hqhktv.php?id=05&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="新闻" ,中视新闻
+http://huanqiuzhibo.cn/manifest/hqhktv.php?id=019&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="新闻" ,东森新闻
+http://huanqiuzhibo.cn/manifest/hqhktv.php?id=033&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="新闻" ,東森新聞HD
+http://220.134.196.147:8602/http/116.50.42.18:8081/hls/63/805/ch10.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="新闻" ,中天新闻
+http://huanqiuzhibo.cn/manifest/hqhktv.php?id=042&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="新闻" ,中天新聞
+http://220.134.196.147:8603/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="新闻" ,三立新闻
+http://huanqiuzhibo.cn/manifest/hqhktv.php?id=026&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="新闻" ,三立新聞HD
+http://220.134.196.147:8605/http/116.50.42.18:8081/hls/65/807/ch18.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="新闻" ,非凡新闻,
+http://huanqiuzhibo.cn/manifest/hqhktv.php?id=06&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="新闻" ,非凡新聞HD
+http://220.134.196.147:8606/http/116.50.42.18:8081/hls/75/817/ch57.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+#EXTINF:-1 group-title="新闻" ,年代新闻
+http://huanqiuzhibo.cn/manifest/hqhktv.php?id=07&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 group-title="新闻" ,CNN HD
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="新闻" tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" ,CNBC新闻
+http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
+#EXTINF:-1 group-title="新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" ,有线新闻台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 group-title="新闻" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQ2QS.png" ,無綫新聞台
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 group-title="新闻" ,无线新闻
+http://live.hodtv.vip:25461/live/5633/123/3743.ts
+#EXTINF:-1 group-title="新闻" ,無線新聞
+https://xxx1.hkanimal.com/xxxx/83/index.m3u8?token=a2d7f1b4900b31ac16d520a982573d80
+#EXTINF:-1 group-title="新闻" ,娱乐新闻台
+http://live.hodtv.vip:25461/live/5633/123/3758.ts
+#EXTINF:-1 group-title="新闻" ,娱乐新闻台
+http://v3948069e.live.126.net:80/live/2377c0666.flv
+#EXTINF:-1 group-title="新闻" ,Now新闻
+http://live.hodtv.vip:25461/live/5633/123/3871.ts
